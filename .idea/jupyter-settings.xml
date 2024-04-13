@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="829bf94b8f77f69d415323f50d335a796ddd17623810da13" />
+          <option name="urlString" value="http://localhost:8889" />
+          <authParams2>
+            <map>
+              <entry key="token" value="829bf94b8f77f69d415323f50d335a796ddd17623810da13" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/HomeCredit.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="argv" value="poetry run jupyter-lab" />
+              <option name="managed" value="true" />
+              <option name="sdkName" value="" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
