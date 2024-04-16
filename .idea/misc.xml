@@ -11,4 +11,7 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (HomeCredit)" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
